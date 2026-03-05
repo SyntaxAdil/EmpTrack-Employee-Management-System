@@ -12,7 +12,13 @@ A modern, responsive **Employee Management System** built with React, Redux Tool
 
 ## 📸 Screenshots
 
-> Add screenshots here
+| Home | Favorites |
+|:---:|:---:|
+| ![Home](public/home.png) | ![Favorites](public/fav.png) |
+
+| Add Employee | Delete Confirmation |
+|:---:|:---:|
+| ![Add Popup](public/popupAdd.png) | ![Delete Popup](public/popupDlt.png) |
 
 ---
 
@@ -177,7 +183,7 @@ npm run lint      # Run ESLint
 
 ## 👨‍💻 Author
 
-**Adil** — [@SyntaxAdil](https://github.com/SyntaxAdil)
+**Abdur Rahman Adil** — [@SyntaxAdil](https://github.com/SyntaxAdil)
 
 ---
 
