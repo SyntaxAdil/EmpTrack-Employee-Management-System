@@ -4,7 +4,7 @@ import CanceledError from "./../../../node_modules/axios/lib/cancel/CanceledErro
 
 const Footer = () => {
   return (
-    <footer className="footer px-4 bg-base-300 w-full">
+    <footer className="footer px-4 bg-base-300 min-w-full w-full ">
       <footer className="footer sm:footer-horizontal  max-w-5xl mx-auto text-base-content   mt-10">
         <nav>
           <h6 className="footer-title text-emerald-300">Features</h6>

@@ -8,7 +8,7 @@ import ImagePopup from './../components/popup/ImagePopup';
 
 const Home = () => {
   return (
-    <div className="w-full mt-4 flex flex-col  items-center justify-between min-h-screen space-y-10">
+    <div className="w-full min-w-full mt-4 flex flex-col  items-center justify-between min-h-screen space-y-10">
       <div className="flex-1 max-w-5xl mx-auto container">
       <Navbar />
 
