@@ -8,9 +8,9 @@ import ImagePopup from './../components/popup/ImagePopup';
 
 const Home = () => {
   return (
-    <div className="w-full min-w-full mt-4 flex flex-col  items-center justify-between min-h-screen space-y-10 overflow-x-hidden">
-      <div className="flex-1 max-w-5xl mx-auto container px-4">
+    <div className="w-full min-w-full mt-4 flex flex-col  items-center justify-between min-h-screen space-y-10 ">
       <Navbar />
+      <div className="flex-1 max-w-5xl mx-auto container px-4 overflow-x-hidden">
 
       <Employee />
       </div>

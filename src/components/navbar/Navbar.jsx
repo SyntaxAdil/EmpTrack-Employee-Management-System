@@ -15,7 +15,7 @@ const Navbar = () => {
 
   const [openFavMenu, setOpenFavMenu] = useState(false);
   return (
-    <section className=" sticky w-full left-0 top-5 z-9 right-0 mx-auto">
+    <section className=" max-w-5xl mx-auto container  sticky w-full left-0 top-5 z-9 right-0 mx-auto">
       <nav className="bg-base-200 px-6 md:px-8 py-4  rounded-full flex items-center justify-between">
         <div>
           <h1 className="text-2xl font-extrabold tracking-wide">
