@@ -25,7 +25,7 @@ const Footer = () => {
         </nav>
 
         <nav>
-          <h6 className="footer-title">Developer</h6>
+          <h6 className="footer-title mt-4 md:mt-0 text-emerald-300">Developer</h6>
           <div className="grid grid-flow-col gap-4">
             <a
               className="cursor-pointer"
