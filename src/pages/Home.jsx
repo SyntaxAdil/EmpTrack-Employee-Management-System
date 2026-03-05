@@ -14,7 +14,10 @@ const Home = () => {
 
       <Employee />
       </div>
+      <div className="overflow-x-hidden w-full">
+
       <Footer />
+      </div>
       <>
         <EditPopup />
         <ImagePopup />
